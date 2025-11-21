@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "chrono": "cpp",
+        "filesystem": "cpp"
+    }
+}
